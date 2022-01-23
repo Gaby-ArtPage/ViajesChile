@@ -48,3 +48,13 @@ body {
     font-size: large;
     height: 7rem;
 }
+footer {
+    height: 5rem;
+    font-size: large;
+    background: #0dcaf0;
+    border: none;
+}
+footer i{
+    font-size: 25pt;
+    color: white;
+}
